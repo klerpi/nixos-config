@@ -343,6 +343,8 @@
           https://addons.mozilla.org/firefox/downloads/file/4251917/sponsorblock-5.5.9.xpi
           # Unhook
           https://addons.mozilla.org/firefox/downloads/file/4210197/youtube_recommended_videos-1.6.3.xpi
+          # BlockTube
+          https://addons.mozilla.org/firefox/downloads/file/4247450/blocktube-0.4.2.xpi
         ];
       };
     };

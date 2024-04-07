@@ -82,6 +82,9 @@
     enable = true;
     userName = "klerpi";
     userEmail = "git@klerpi.com";
+    extraConfig = {
+      init.defaultBranch = "main";
+    };
   };
 
   programs.vscode = {

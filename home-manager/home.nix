@@ -103,6 +103,7 @@
       breadcrumbs.enabled = false;
       workbench.iconTheme = "vscode-icons";
       git.autofetch = true;
+      git.confirmSync = false;
       # Disable auto updates (rely on NixOS for updates)
       extensions.autoCheckUpdates = false;
       update.mode = "none";

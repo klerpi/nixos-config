@@ -307,16 +307,16 @@
         "extensions.webextensions.restrictedDomains" = "";
         "extensions.postDownloadThirdPartyPrompt" = false;
         # Clear on shutdown
-        "privacy.sanitize.sanitizeOnShutdown" = true;
-        "privacy.clearOnShutdown.cache" = true;
-        "privacy.clearOnShutdown.cookies" = true;
-        "privacy.clearOnShutdown.downloads" = true;
-        "privacy.clearOnShutdown.formdata" = true;
-        "privacy.clearOnShutdown.history" = true;
-        "privacy.clearOnShutdown.offlineApps" = true;
-        "privacy.clearOnShutdown.sessions" = true;
-        "privacy.clearOnShutdown.sitesettings" = false;
-        "privacy.sanitize.timeSpan" = 0;
+        # "privacy.sanitize.sanitizeOnShutdown" = true;
+        # "privacy.clearOnShutdown.cache" = true;
+        # "privacy.clearOnShutdown.cookies" = true;
+        # "privacy.clearOnShutdown.downloads" = true;
+        # "privacy.clearOnShutdown.formdata" = true;
+        # "privacy.clearOnShutdown.history" = true;
+        # "privacy.clearOnShutdown.offlineApps" = true;
+        # "privacy.clearOnShutdown.sessions" = true;
+        # "privacy.clearOnShutdown.sitesettings" = false;
+        # "privacy.sanitize.timeSpan" = 0;
       };
     };
 

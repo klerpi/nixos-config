@@ -77,6 +77,7 @@
     alejandra
     neovim
     prismlauncher
+    corefonts
   ];
 
   programs.git = {

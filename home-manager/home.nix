@@ -79,6 +79,16 @@
     corefonts
   ];
 
+  programs.alacritty = {
+    enable = true;
+    settings = {
+      window.dimensions = {
+        lines = 3;
+        columns = 300;
+      };
+    };
+  };
+
   programs.git = {
     enable = true;
     userName = "klerpi";
@@ -338,7 +348,7 @@
         Install = [
           # Bitwarden
           https://addons.mozilla.org/firefox/downloads/file/4246600/bitwarden_password_manager-2024.2.1.xpi
-          # UBlock Origin
+          # uBlock Origin
           https://addons.mozilla.org/firefox/downloads/file/4257361/ublock_origin-1.57.0.xpi
           # Sponsorblock
           https://addons.mozilla.org/firefox/downloads/file/4251917/sponsorblock-5.5.9.xpi

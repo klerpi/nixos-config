@@ -76,6 +76,7 @@
   home.packages = with pkgs; [
     alejandra
     neovim
+    prismlauncher
   ];
 
   programs.git = {

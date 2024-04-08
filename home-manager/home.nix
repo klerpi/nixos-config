@@ -328,10 +328,10 @@
       NoDefaultBookmarks = true;
       Bookmarks = [
         {
-          Title = "Is It Christmas?";
-          URL = "https://isitchristmas.com/";
+          Title = "DDG Chat";
+          URL = "https://duckduckgo.com/?t=ffab&q=chat&ia=chat";
           Placement = "toolbar";
-          Folder = "Sillies";
+          Folder = "Utilities";
         }
       ];
       Extensions = {

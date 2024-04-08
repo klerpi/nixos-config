@@ -91,6 +91,7 @@
     enable = true;
     settings = {
       shell = "fish";
+      font.size = 15;
     };
   };
 

@@ -79,13 +79,18 @@
     corefonts
   ];
 
+  programs.fish = {
+    enable = true;
+    interactiveShellInit = ''
+      set fish_greeting # Disable greeting
+    '';
+    plugins = [];
+  };
+
   programs.alacritty = {
     enable = true;
     settings = {
-      window.dimensions = {
-        lines = 3;
-        columns = 300;
-      };
+      shell = "fish";
     };
   };
 

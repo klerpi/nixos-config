@@ -81,9 +81,7 @@
 
   programs.fish = {
     enable = true;
-    interactiveShellInit = ''
-      set fish_greeting # Disable greeting
-    '';
+    interactiveShellInit = builtins.readFile ../dotfiles/fish/init.fish;
     plugins = [];
   };
 

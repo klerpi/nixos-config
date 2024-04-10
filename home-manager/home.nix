@@ -127,6 +127,7 @@
       bbenoist.nix
       kamadorueda.alejandra
       vscode-icons-team.vscode-icons
+      bungcip.better-toml
     ];
   };
 

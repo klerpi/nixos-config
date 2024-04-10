@@ -130,6 +130,7 @@
       bungcip.better-toml
       rust-lang.rust-analyzer
       ms-python.python
+      ms-vscode.cpptools
     ];
   };
 

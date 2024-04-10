@@ -110,7 +110,7 @@
       window.dialogStyle = "custom";
       window.titleBarStyle = "custom";
       editor.fontFamily = "Ubuntu Mono";
-      editor.fontSize = 15;
+      editor.fontSize = 16;
       editor.minimap.enabled = false;
       editor.formatOnSave = true;
       terminal.integrated.fontSize = 15;

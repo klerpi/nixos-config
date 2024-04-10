@@ -128,6 +128,7 @@
       kamadorueda.alejandra
       vscode-icons-team.vscode-icons
       bungcip.better-toml
+      rust-lang.rust-analyzer
     ];
   };
 

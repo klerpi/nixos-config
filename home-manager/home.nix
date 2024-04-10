@@ -129,6 +129,7 @@
       vscode-icons-team.vscode-icons
       bungcip.better-toml
       rust-lang.rust-analyzer
+      arrterian.nix-env-selector
     ];
   };
 
